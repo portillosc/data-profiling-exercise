@@ -1,4 +1,4 @@
 pandas
-sweetviz
+ydata-profiling
 matplotlib
 seaborn
